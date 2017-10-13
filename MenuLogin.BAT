@@ -32,11 +32,11 @@ goto berhitung
 :berhitung
 color C
 echo Pilih Berhitung =
-echo. ษออออออออออออออออออออออออออออออออป
-echo  บ  [1].Penambahan  ( A + B = Y ) บ  
-echo  บ  [2].Pengurangan ( A - B = Y ) บ   
-echo  บ  [3].Keluar Menu Berhitung     บ
-echo  ศออออออออออออออออออออออออออออออออผ
+echo. รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป
+echo  ยบ  [1].Penambahan  ( A + B = Y ) ยบ  
+echo  ยบ  [2].Pengurangan ( A - B = Y ) ยบ   
+echo  ยบ  [3].Keluar Menu Berhitung     ยบ
+echo  รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ
 echo.
 set/p "b1=Masukan Bilangan A: "
 set/p "b2=Masukan Bilangan B: "
